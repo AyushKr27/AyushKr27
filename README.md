@@ -12,9 +12,11 @@
 
 ## About Me
 
-Passionate Software Engineer and Full-Stack Developer with expertise in designing, developing, and deploying scalable, high-performance applications. I excel at creating intuitive front-end interfaces paired with robust, secure back-end systems, ensuring seamless user experiences while driving innovation and business growth.
-
-I focus on clean architecture, code quality, and performance optimization while continuously exploring emerging technologies. A proactive problem-solver, I thrive in dynamic environments, collaborating with cross-functional teams to develop future-ready solutions that align with strategic objectives and adapt to evolving business needs.
+ Full Stack Web Application Developer skilled in MERN stack (MongoDB, Express.js, React, Node.js) and React Native, with
+ experience developing scalable web and mobile applications. Proficient in RESTful APIs, authentication (JWT, Firebase,
+ Clerk), database design (MongoDB, MySQL, Neon, Convex), and cloud deployment (Vercel, Render). Strong understanding
+ of Agile methodologies, CI/CD workflows, version control (Git/GitHub), and collaborative development. Passionate about
+ building efficient, user-friendly solutions with modern technologies such as Next.js, and Tailwind CSS.
 
 <p align="center">
   <a href="https://skillicons.dev">
