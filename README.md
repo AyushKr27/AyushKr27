@@ -26,13 +26,13 @@
 
 ```typescript
 const SasmithManawadu = {
-    location: "Sri Lanka",
-    education: "BSc(Hons) Computer Science & Software Engineering Higher Diploma",
-    roles: ["Software Engineer Intern", "Full Stack Developer", "DevOps Engineer"],
-    currentFocus: ["Web Development", "DevOps", "AI Development" ],
+    location: "Patna,Bihar,India",
+    education: "BTech (CSE) Computer Science Engineering",
+    roles: ["Web Application Developer","Mobile Application Developer",MERN Developer],
+    currentFocus: ["Web Development","Mobile App Development" ],
     communities: {
-        name: ["INTELLEON", "Amazon Web Services(AWS)"],
-        member: ["Software Engineer Intern", "Certified DevOps Engineer"]
+        name: ["Magorix"],
+        member: ["Full Stack Developer"]
     },
     lifePhilosophy: "Delivering scalable and impactful solutions to drive innovation"
 };
