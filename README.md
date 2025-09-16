@@ -6,11 +6,8 @@
   <a href="https://www.linkedin.com/in/ayush-k-1a7735252/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
     <a href="https://leetcode.com/u/ayushkr271/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=FFA116"></a>
   <a href="mailto:ayushkr2701@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail">
-  
+  <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"> 
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=000000&style=for-the-badge" alt="sasmithx" /> </p>
 
 ## About Me
 
