@@ -117,15 +117,11 @@ const Ayush Kumar = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushKr27&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="AyushKr27" /></p>
 </details>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKr27&theme=highcontrast&hide_border=true" />
- </div>
-
  ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
  <p align="center">
-  <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ayush%20Kumar&section=footer&reversal=true&textBg=false&fontColor=33ccff&fontAlign=50&animation=twinkling"/>
 </p>
    
 <p align="center">
