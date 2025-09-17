@@ -115,7 +115,7 @@ const Ayush Kumar = {
   <img align="left" src="https://gh-stats-gen.vercel.app/AyushKr27/github-readme-stats alt="sasmithx" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushKr27&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" /></p>
 </details>
 
 <div align="center">
